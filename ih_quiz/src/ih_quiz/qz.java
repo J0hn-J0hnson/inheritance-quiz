@@ -84,7 +84,6 @@ class Dosen extends Person{
 	}
 	
 	void pv_all() {
-		sleep();
 		pv();
 		selfDev();
 		pv();
